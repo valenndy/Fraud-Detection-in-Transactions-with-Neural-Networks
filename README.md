@@ -1,2 +1,4 @@
 # Fraud-Detection-in-Transactions-with-Neural-Networks
 This project focuses on fraud detection in financial transactions using neural networks This project focuses on fraud detection in financial transactions using neural networks. Three models were implemented and compared: a Multilayer Perceptron (MLP), a Gated Recurrent Unit (GRU) for sequential patterns, and an Autoencoder for anomaly detection. Results show that the MLP achieved the best performance, while the Autoencoder served as a useful complementary model and the GRU underperformed.
+
+link dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
